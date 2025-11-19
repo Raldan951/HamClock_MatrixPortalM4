@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../../Volumes/CIRCUITPY"
+		}
+	],
+	"settings": {
+		"python.languageServer": "Pylance",
+		"python.analysis.diagnosticSeverityOverrides": {
+			"reportMissingModuleSource": "none",
+			"reportShadowedImports": "none"
+		},
+		"python.analysis.extraPaths": [
+			"/Users/peterparise/.vscode/extensions/joedevivo.vscode-circuitpython-0.2.0-darwin-arm64/boards/0x239A/0x80CA",
+			"/Users/peterparise/.vscode/extensions/joedevivo.vscode-circuitpython-0.2.0-darwin-arm64/stubs",
+			"/Users/peterparise/Library/Application Support/Code/User/globalStorage/joedevivo.vscode-circuitpython/bundle/20251114/adafruit-circuitpython-bundle-py-20251114/lib"
+		],
+		"circuitpython.board.version": "8.2.10",
+		"circuitpython.board.vid": "0x239A",
+		"circuitpython.board.pid": "0x80CA"
+	}
+}

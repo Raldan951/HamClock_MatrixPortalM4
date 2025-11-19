@@ -1,0 +1,7 @@
+# Comments are supported
+CIRCUITPY_WIFI_SSID = "Narnia"
+CIRCUITPY_WIFI_PASSWORD = "wd1xp3v401"
+CIRCUITPY_WEB_API_PORT = 80
+CIRCUITPY_WEB_API_PASSWORD = "passw0rd"
+test_variable = "this is a test"
+thumbs_up = "\U0001f44d"
